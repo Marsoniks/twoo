@@ -1,5 +1,9 @@
 this is file local 3
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is bigfux
 =======
 >>>>>>> 0b3591e... initial commit 2 repo
+=======
+this is a new new buggggfuxxx
+>>>>>>> 7f0ac82... neww neww file 3
