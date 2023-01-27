@@ -1,2 +1,5 @@
 this is file local 3
+<<<<<<< HEAD
 this is bigfux
+=======
+>>>>>>> 0b3591e... initial commit 2 repo
